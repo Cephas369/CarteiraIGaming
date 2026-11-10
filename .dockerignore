@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+test
+load
+.git
+.github
+*.md
+*.tsbuildinfo
+.env
